@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tetris React",
+  "description": "A modern, responsive Tetris clone built with React and Tailwind CSS featuring neon aesthetics, touch controls, and smooth gameplay.",
+  "requestFramePermissions": []
+}
